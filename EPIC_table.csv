@@ -1,0 +1,6 @@
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Family,Gender,Age,PatientID,Disease,Tissue,Pool_ID,Sentrix_ID,Sentrix_Position,Basename
+4,D01,2,Healthy,Father,M,35,4,control,Tcells,NO,203740920087.00,R04C01,203740920087_R04C01
+5,E01,2,Healthy,Mother,F,34,5,control,Tcells,NO,203740920087.00,R05C01,203740920087_R05C01
+1,A01,1,Healthy,Sister,F,11,NA,control,Tcells,NO,202764140117.00,R01C01,202764140117_R01C01
+3,B01,1,Patient,Patient,M,8,AB,ICF3,Tcells,NO,202764140117.00,R02C01,202764140117_R02C01
+8,E01,1,Patient,Patient,F,2,H,ICF3,Tcells,NO,202764140117.00,R05C01,202764140117_R05C01
